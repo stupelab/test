@@ -1,5 +1,5 @@
 {
-    "projects": [
+"projects": [
     {
       "id": 2,
       "title": {
@@ -58,7 +58,7 @@
         "year": "2019 - 2020",
       },
       "name":"PHAEDRA",
-      "description": "Fada o persona? Ja saps com es cuida? L&apos;has de cuidar, ara és teva. Enmig de la nit, canta. Enmig del bosc. Qui és l"home llop? Qui salva la donzella, el príncep o el drac? Balla amb mi, siusplau. Tothom necessita un nom.",
+      "description": "Fada o persona? Ja saps com es cuida? L&apos;has de cuidar, ara és teva. Enmig de la nit, canta. Enmig del bosc. Qui és l&apos;home llop? Qui salva la donzella, el príncep o el drac? Balla amb mi, siusplau. Tothom necessita un nom.",
       "credits": {
         "websites":null,
         "video": "https://www.youtube.com/watch?v=1rYKlc0pD9k",
@@ -920,5 +920,4 @@
   },
 
 ]
-
 }
