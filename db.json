@@ -57,7 +57,7 @@
         "year": "2019 - 2020",
       },
       "name":"PHAEDRA",
-      "description": "Fada o persona? Ja saps com es cuida? L"has de cuidar, ara és teva. Enmig de la nit, canta. Enmig del bosc. Qui és l"home llop? Qui salva la donzella, el príncep o el drac? Balla amb mi, siusplau. Tothom necessita un nom.",
+      "description": "Fada o persona? Ja saps com es cuida? L'has de cuidar, ara és teva. Enmig de la nit, canta. Enmig del bosc. Qui és l"home llop? Qui salva la donzella, el príncep o el drac? Balla amb mi, siusplau. Tothom necessita un nom.",
       "credits": {
         "websites":null,
         "video": "https://www.youtube.com/watch?v=1rYKlc0pD9k",
@@ -103,7 +103,7 @@
         "year": "2017",
       },
       "name": "HEDVidGE",
-      "description": "Fred. Neu. Tan petita i sentir-se sola, no-cuidada. L’abando"name"nt profund. <br>S E N S I B I L I T A T <br>Estic segura que l’Hedvige, la família Ekdal i el seu ànec salvatge encara són vius, en una altra dimensió.",
+      "description": "Fred. Neu. Tan petita i sentir-se sola, no-cuidada. L’abandonament profund. <br>S E N S I B I L I T A T <br>Estic segura que l’Hedvige, la família Ekdal i el seu ànec salvatge encara són vius, en una altra dimensió.",
       "credits":{
         "websites":[],
         "video": "https://www.youtube.com/watch?v=8m9axpVPMcA",
@@ -481,7 +481,7 @@
       "location": "Microteatres",
       "year": "2014",
       "type": ["personatges","musica"],
-      "img":"../data/Cronologia/siquieresDulceCrono.jpg", //subir foto
+      "img":"../data/Cronologia/siquieresDulceCrono.jpg",
     },
     {
       "id": 20,
@@ -518,7 +518,7 @@
       "title":"Barcelona, nit d’estiu ",
       "subtitle": "de Dani de la Orden",
       "author": null,
-      "location": "El Terrat, Sábado películas, Play"time" movies, Filmin, Cameo",
+      "location": "El Terrat, Sábado películas, Playtime movies, Filmin, Cameo",
       "year": "2013",
       "type": ["personatges"],
       "img":"../data/Cronologia/bcnNitCrono.jpg",
@@ -541,7 +541,7 @@
       "location": null,
       "year": "2012",
       "type": ["musica","moviment"],
-      "img":"../data/Cronologia/totFum2.jpg", //Canviar foto
+      "img":"../data/Cronologia/totFum2.jpg", 
     },
     {
       "id": 26,
@@ -607,7 +607,7 @@
       "title":"Límits",
       "subtitle":"de Marta Solé",
       "author": null,
-      "location": "Cia. L"Aviador. Sala Beckett",
+      "location": "Cia. L'Aviador. Sala Beckett",
       "year": "2011",
       "type": ["personatges"],
       "img":"../data/Cronologia/LÍMITSCronologia.jpg",
@@ -881,7 +881,7 @@
     "location": "Valladolid",
     "city": null,
     "time": null,
-    "date": "4 d"abril",
+    "date": "4 d'abril",
     "info": "https://cdn.mcu.es/espectaculo/jerusalem/",
   },
   {
