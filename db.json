@@ -1,5 +1,4 @@
-{
-"projects": [
+{"projects": [
     {
       "id": 2,
       "title": {
@@ -10,7 +9,7 @@
         "year": "2019",
       },
       "name":"LICO Y PERI",
-      "description": "Duet vocal amb Marc Vilajuana. Misticisme quot"id"ià.<br>Un diàleg sonor entre una cultura antiga i la quot"id"ianitat actual, sempre amb una vessant minimalista.<br>Les creacions són cançons de llarga durada que generen un ambient de reflexió descansada entre públic i artistes.<br><br>Col·labora amb el projecte l’església de Sta. Anna, cedint espais per a exploració sonora.",
+      "description": "Duet vocal amb Marc Vilajuana. Misticisme quotidià.<br>Un diàleg sonor entre una cultura antiga i la quotidianitat actual, sempre amb una vessant minimalista.<br>Les creacions són cançons de llarga durada que generen un ambient de reflexió descansada entre públic i artistes.<br><br>Col·labora amb el projecte l’església de Sta. Anna, cedint espais per a exploració sonora.",
       "credits": {
         "websites":[],
         "video": "https://www.youtube.com/channel/UClL-LDyT6dhT1DkmLQKN-tg ",
@@ -40,7 +39,7 @@
           "video": "http://www.youtube.com/watch?v=49Z3IFb_HXU",
           audio: "https://open.spotify.com/album/3vMLSO1yLy4LjMWJVB7cgB?si=zd03TRy3T3iGekr_So5hJA",
           "awards": ["Nominada als Premis Butaca 2019", "Premi Teatre Barcelona Millor Actriu de musical 2019"],
-          "imageBy": "Dav"id" Ruano",
+          "imageBy": "David Ruano",
         },
         "images": [{
           "url": "../data/creacions/Marina.jpg",
@@ -58,7 +57,7 @@
         "year": "2019 - 2020",
       },
       "name":"PHAEDRA",
-      "description": "Fada o persona? Ja saps com es cu"id"a? L"has de cu"id"ar, ara és teva. Enmig de la nit, canta. Enmig del bosc. Qui és l"home llop? Qui salva la donzella, el príncep o el drac? Balla amb mi, siusplau. Tothom necessita un nom.",
+      "description": "Fada o persona? Ja saps com es cuida? L"has de cuidar, ara és teva. Enmig de la nit, canta. Enmig del bosc. Qui és l"home llop? Qui salva la donzella, el príncep o el drac? Balla amb mi, siusplau. Tothom necessita un nom.",
       "credits": {
         "websites":null,
         "video": "https://www.youtube.com/watch?v=1rYKlc0pD9k",
@@ -103,8 +102,8 @@
         "location": "Teatre Lliure",
         "year": "2017",
       },
-      "name": "HEDV"id"GE",
-      "description": "Fred. Neu. Tan petita i sentir-se sola, no-cu"id"ada. L’abando"name"nt profund. <br>S E N S I B I L I T A T <br>Estic segura que l’Hedvige, la família Ekdal i el seu ànec salvatge encara són vius, en una altra dimensió.",
+      "name": "HEDVidGE",
+      "description": "Fred. Neu. Tan petita i sentir-se sola, no-cuidada. L’abando"name"nt profund. <br>S E N S I B I L I T A T <br>Estic segura que l’Hedvige, la família Ekdal i el seu ànec salvatge encara són vius, en una altra dimensió.",
       "credits":{
         "websites":[],
         "video": "https://www.youtube.com/watch?v=8m9axpVPMcA",
@@ -112,7 +111,7 @@
         "imageBy": "Ros Ribas",
       },
       "images": [{
-        "url": "../data/creacions/Hedv"id"ge.jpg",
+        "url": "../data/creacions/Hedvidge.jpg",
         "isMain": true,
       }],
       "type": ["personatges"],
@@ -150,7 +149,7 @@
         "year": "2016",
       },
       "name":"SI AU SI",
-      "description": "Fisicalitat. Imatges. Quadres.<br>“El jardí de les delícies”. El Bosco.<br>Habitar l’espai de St. Pere de Galligants.<br>Col·lectiu vs. indiv"id"u.<br>Apropar-nos a l’univers de Philippe Genty gràcies a la Marjorie.<br>“Tira tu mierda”.",
+      "description": "Fisicalitat. Imatges. Quadres.<br>“El jardí de les delícies”. El Bosco.<br>Habitar l’espai de St. Pere de Galligants.<br>Col·lectiu vs. individu.<br>Apropar-nos a l’univers de Philippe Genty gràcies a la Marjorie.<br>“Tira tu mierda”.",
       "credits": {
         "websites": null,
         "video": "https://vimeo.com/206073482",
@@ -173,7 +172,7 @@
         "year": "2014-2018",
       },
       "name":"GELRIA",
-      "description": "Trio amb Federico Mosquera (piano) i Mario G. Cortizo (percussió). El so de l’Atlàntic. Galícia. Embarcacions. Un mar que t’acaricia. Illes ennuvolades. Poesia. Descobrir a Chus Pato i les seves paraules s"id"erals. ",
+      "description": "Trio amb Federico Mosquera (piano) i Mario G. Cortizo (percussió). El so de l’Atlàntic. Galícia. Embarcacions. Un mar que t’acaricia. Illes ennuvolades. Poesia. Descobrir a Chus Pato i les seves paraules siderals. ",
       "credits": {
         "websites":["gelriamusica.com"],
         "video": "https://www.youtube.com/watch?v=bBd58TsMBYc",
@@ -249,7 +248,7 @@
     {
       "id": 41,
       "title":"Cançons per infants i bestioles ",
-      "subtitle": "de Linda Hambäck i Marika He"id"ebäck.",
+      "subtitle": "de Linda Hambäck i Marika Heidebäck.",
       "author": null,
       "location": "Pack Màgic",
       "year": "2019",
@@ -259,7 +258,7 @@
     {
       "id": 40,
       "title":"Cançons per infants i bestioles ",
-      "subtitle": "de Linda Hambäck i Marika He"id"ebäck.",
+      "subtitle": "de Linda Hambäck i Marika Heidebäck.",
       "author": null,
       "location": "Pack Màgic",
       "year": "2019",
@@ -270,7 +269,7 @@
       "id": 39,
       "title":"P de carn ",
       "subtitle": "de Martí Sancliment, Bru Ferri i Elena Tarrats.",
-      "author": "dirig"id"a per Julio Manrique,",
+      "author": "dirigida per Julio Manrique,",
       "location": "Konvent 0 + Antic Teatre",
       "year": "2019",
       "type": ["personatges"],
@@ -280,7 +279,7 @@
       "id": 37,
       "title":"Jerusalem ",
       "subtitle": "de Jezz Butterworth.",
-      "author": "dirig"id"a per Julio Manrique,",
+      "author": "dirigida per Julio Manrique,",
       "location": "GREC, Romea, CDN",
       "year": "2019",
       "type": ["personatges"],
@@ -288,7 +287,7 @@
     },
     {
       "id": 0,
-      "title":"Apologia i escarni de l’estup"id"esa humana ",
+      "title":"Apologia i escarni de l’estupidesa humana ",
       "subtitle": "de Marc Timón.",
       "author": "Marc Timón",
       "location": "Off Liceu",
@@ -326,13 +325,13 @@
     },
     {
       "id": 4,
-      "title":"V"id"a perfecta",
+      "title":"Vida perfecta",
       "subtitle": "de Leticia Dolera",
       "author": "Leticia Dolera",
       "location": "Movistar +",
       "year": "2018",
       "type": ["personatges"],
-      "img":"../data/Cronologia/v"id"aPerfectaCrono.jpg",
+      "img":"../data/Cronologia/vidaPerfectaCrono.jpg",
     },
     {
       "id": 5,
@@ -347,7 +346,7 @@
     {
       "id": 6,
       "title":"El llibertí ",
-      "subtitle":"d’Eric Emmanuel-Schmitt, dirig"id"a per Joan Lluís Bozzo.",
+      "subtitle":"d’Eric Emmanuel-Schmitt, dirigida per Joan Lluís Bozzo.",
       "author": "Shakespeare",
       "location": "Teatre Poliorama",
       "year": "2018",
@@ -357,7 +356,7 @@
     {
       "id": 7,
       "title":"L’ànec salvatge",
-      "subtitle": "d’Henrik Ibsen, dirig"id"a per Julio Manrique",
+      "subtitle": "d’Henrik Ibsen, dirigida per Julio Manrique",
       "author": "Julio Manrique.",
       "location": "Teatre Lliure",
       "year": "2017",
@@ -387,7 +386,7 @@
     {
       "id": 10,
       "title":"L’Avar",
-      "subtitle": "de Molière, dirig"id"a per Josep Maria Mestres.",
+      "subtitle": "de Molière, dirigida per Josep Maria Mestres.",
       "author": null,
       "location": "Teatre Goya i Gira",
       "year": "2016",
@@ -417,7 +416,7 @@
     {
       "id": 13,
       "title":"La Xirgu ",
-      "subtitle": "dirig"id"a per Sílvia Quer.",
+      "subtitle": "dirigida per Sílvia Quer.",
       "author": "Sílvia Quer",
       "location": "TVG i Canal Sur",
       "year": "2015",
@@ -427,7 +426,7 @@
     {
       "id": 14,
       "title":"Joc de miralls ",
-      "subtitle": "d’Annie Baker, dirig"id"a per Juan Carlos Martel.",
+      "subtitle": "d’Annie Baker, dirigida per Juan Carlos Martel.",
       "author": "Carlos Martel",
       "location": "Teatre Lliure",
       "year": "2015",
@@ -447,7 +446,7 @@
     {
       "id": 16,
       "title":"Campamentos",
-      "subtitle": " de Dav"id" Pintó i música de Marc Sambola.",
+      "subtitle": " de David Pintó i música de Marc Sambola.",
       "author": "Marc Sambola",
       "location": "Microteatres",
       "year": "2014",
@@ -476,8 +475,8 @@
     },
     {
       "id": 19,
-      "title":"Si quieres dulce no p"id"as calamares ",
-      "subtitle": "de Dav"id" Pintó i música de Marc Sambola",
+      "title":"Si quieres dulce no pidas calamares ",
+      "subtitle": "de David Pintó i música de Marc Sambola",
       "author": null,
       "location": "Microteatres",
       "year": "2014",
@@ -496,7 +495,7 @@
     },
     {
       "id": 21,
-      "title":"Ma. El poder de dec"id"ir",
+      "title":"Ma. El poder de decidir",
       "subtitle": "Disc amb la pianista Yamini T. Prabhu",
       "author": null,
       "location": null,
@@ -538,7 +537,7 @@
       "id": 25,
       "title":"Tot és fum. L’amor en cinc intents",
       "subtitle":"Les Impuxibles",
-      "author": "Dirig"id"a per Míriam Escurriola. Nau Ivanow i IPAM Festival Grec Barcelona.",
+      "author": "Dirigida per Míriam Escurriola. Nau Ivanow i IPAM Festival Grec Barcelona.",
       "location": null,
       "year": "2012",
       "type": ["musica","moviment"],
@@ -557,7 +556,7 @@
       "id": 27,
       "title":"Hora a las tres ",
       "subtitle":"Hora a las tres ",
-      "author": "de Marta Solé, dirig"id"a per Marc Vilavella",
+      "author": "de Marta Solé, dirigida per Marc Vilavella",
       "location": "Microteatro por dinero",
       "year": "2012",
       "type": ["personatges"],
@@ -627,7 +626,7 @@
       "id": 34,
       "title":"Dreamin’ and rappin",
       "subtitle": "de Moisès Maicas",
-      "author": "dirig"id"a per Moisès Maicas. Gira",
+      "author": "dirigida per Moisès Maicas. Gira",
       "location": null,
       "year": "2011",
       "type": ["personatges"],
@@ -659,7 +658,7 @@
     "id": 5,
     "title":"Jerusalem",
     "author": null,
-    "location": "L"Atlànt"id"a",
+    "location": "L"Atlàntida",
     "city": "Vic",
     "date": "19 i 20 Octubre",
     "info": null,
@@ -716,7 +715,7 @@
     "title":"Jerusalem",
     "author": null,
     "location": "La Llotja",
-    "city": "Lle"id"a",
+    "city": "Lleida",
     time: null,
     "date": "9 i 10 novembre",
     "info": null,
@@ -803,7 +802,7 @@
     "type": "temporada",
     "author": null,
     "location": "CDN Teatro Valle Inclán.",
-    "city": "Madr"id"",
+    "city": "Madrid",
     time: "de dimarts a diumenge.",
     "date": "Del 22 de gener a lʼ1 de març 2020",
     "info": "https://cdn.mcu.es/espectaculo/jerusalem/",
@@ -879,7 +878,7 @@
     "title":"Jerusalem",
     "type": null,
     "author": null,
-    "location": "Valladol"id"",
+    "location": "Valladolid",
     "city": null,
     time: null,
     "date": "4 d"abril",
@@ -909,7 +908,7 @@
   },
   {
     "id": 30,
-    "title":"Apologia i escarni de l’estup"id"esa humana",
+    "title":"Apologia i escarni de l’estupidesa humana",
     "type": null,
     "author": null,
     "location": "Foyer del Liceu, OFF Liceu",
