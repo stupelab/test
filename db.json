@@ -1,5 +1,4 @@
-{
-"projects": [
+{"projects": [
     {
       "id": 2,
       "title": {
@@ -659,7 +658,7 @@
     "id": 5,
     "title":"Jerusalem",
     "author": null,
-    "location": "L"Atlàntida",
+    "location": "L&apos;Atlàntida",
     "city": "Vic",
     "date": "19 i 20 Octubre",
     "info": null,
