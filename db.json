@@ -1,4 +1,5 @@
-{"projects": [
+{
+"projects": [
     {
       "id": 2,
       "title": {
@@ -892,7 +893,7 @@
     "location": "Bilbao",
     "city": null,
     "time": null,
-    "date": "17 i 18 d"abril",
+    "date": "17 i 18 d&apos;abril",
     "info": "https://cdn.mcu.es/espectaculo/jerusalem/",
   },
   {
