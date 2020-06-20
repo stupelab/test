@@ -1,7 +1,7 @@
 
   "posts": [
     { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": { "title":"ALEXANDRÆ", "subtitle": null, "author": null, "location": null, "year": "2019"}, "name":"LICO Y PERI", "description": "Duet vocal amb Marc Vilajuana. Misticisme quotidià.<br>Un diàleg sonor entre una cultura antiga i la quotidianitat actual, sempre amb una vessant minimalista.<br>Les creacions són cançons de llarga durada que generen un ambient de reflexió descansada entre públic i artistes.<br><br>Col·labora amb el projecte l’església de Sta. Anna, cedint espais per a exploració sonora.","credits": {"websites":[],"video": "https://www.youtube.com/channel/UClL-LDyT6dhT1DkmLQKN-tg ","awards": [],"imageBy": "Clara Bes"},"images": [{"url": "../data/creacions/licoPeriMain.jpg","isMain": true}] }
+    { "id": 2, "title": { "title":"ALEXANDRÆ", "subtitle": null, "author": null, "location": null, "year": "2019"}}
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
