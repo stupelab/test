@@ -1,37 +1,267 @@
 {
-"posts":[
-   {
-      "id":1,
-      "title":"Post 1"
-   },
-   {
-      "id":2,
-      "title":{
-         "title":"ALEXANDR",
-         "subtitle":null,
-         "author":null,
-         "location":null,
-         "year":"2019"
-      }
-   },
-   {
-      "id":3,
-      "title":"Post 3"
-   }
-],
-"comments":[
-   {
-      "id":1,
-      "body":"some comment",
-      "postId":1
-   },
-   {
-      "id":2,
-      "body":"some comment",
-      "postId":1
-   }
-],
-"profile":{
-   "name":"typicode"
-}
+"agenda" :[
+  {
+    "id":5,
+    "title":"Jerusalem",
+    "author":null,
+    "location":"L&#39;Atlàntida",
+    "city":"Vic",
+    "date":"19 i 20 Octubre",
+    "info":null
+  },
+  {
+    "id":6,
+    "title":"Jerusalem",
+    "author":null,
+    "location":"Auditori",
+    "city":"St. Cugat del Vallès",
+    "date":"24 i 25 Octubre",
+    "info":null
+  },
+  {
+    "id":7,
+    "title":"Jerusalem",
+    "author":null,
+    "location":"Kursaal",
+    "city":"Manresa",
+    "date":"26 i 27 Octubre",
+    "info":null
+  },
+  {
+    "id":8,
+    "title":"Jerusalem",
+    "author":null,
+    "location":"Teatre Municipal (Girona)",
+    "city":"(Temporada Alta)",
+    "date":"28 i 29 Octubre",
+    "info":null
+  },
+  {
+    "id":10,
+    "title":"P de carn (Acció poètica en III actes)",
+    "type":"estrena",
+    "author":null,
+    "location":"Antic Teatre, Barcelona.",
+    "date":"3 novembre",
+    "info":"http://www.anticteatre.com/events/event/cia-la-tropical-elena-tarrats-bru-ferri-marti-sancliment-p-de-carn-accio-poetica-en-tres-actes-konvent-a-lantic-19/?lang=en"
+  },
+  {
+    "id":11,
+    "title":"Cançons per a infants i bestioles",
+    "type":null,
+    "author":null,
+    "location":null,
+    "city":"Sta Coloma Gramenet",
+    "time":"18h",
+    "date":"5 novembre",
+    "info":null
+  },
+  {
+    "id":12,
+    "title":"Jerusalem",
+    "author":null,
+    "location":"La Llotja",
+    "city":"Lleida",
+    "time":null,
+    "date":"9 i 10 novembre",
+    "info":null
+  },
+  {
+    "id":13,
+    "title":"Jerusalem",
+    "type":"temporada",
+    "author":null,
+    "location":"Teatre Romea, Barcelona",
+    "city":null,
+    "time":"de dimarts a diumenge",
+    "date":"del 14 de novembre 2019 al 6 de gener 2020",
+    "info":"https://www.teatreromea.cat/ca/ex/1690/jerusalem/"
+  },
+  {
+    "id":14,
+    "title":"Cançons per a infants i bestioles",
+    "type":null,
+    "author":null,
+    "location":"Festival de Cinema de Gijón",
+    "city":null,
+    "time":null,
+    "date":"18 de novembre",
+    "info":null
+  },
+  {
+    "id":15,
+    "title":"As punk as possible",
+    "type":"Mostra Laboratori",
+    "author":null,
+    "location":"Sala Becket",
+    "city":"Barcelona",
+    "time":null,
+    "date":"27 de novembre",
+    "info":null
+  },
+  {
+    "id":16,
+    "title":"Cançons per a infants i bestioles",
+    "type":null,
+    "author":null,
+    "location":"Kinosaure Cinemes Girona.",
+    "city":"Barcelona",
+    "time":"12h",
+    "date":"8 de desembre",
+    "info":null
+  },
+  {
+    "id":17,
+    "title":"Cançons per a infants i bestioles",
+    "type":null,
+    "author":null,
+    "location":"Cassà de la Selva",
+    "city":"Barcelona",
+    "date":"29 de desembre",
+    "info":null
+  },
+  {
+    "id":18,
+    "title":"Cançons per a infants i bestioles",
+    "type":null,
+    "author":null,
+    "location":"Auditori CCCB",
+    "city":"Barcelona",
+    "time":"12h",
+    "date":"27 de desembre",
+    "info":null
+  },
+  {
+    "id":19,
+    "title":"Cançons per a infants i bestioles",
+    "type":null,
+    "author":null,
+    "location":"Auditori CCCB",
+    "city":"Barcelona",
+    "time":"12h",
+    "date":"4 de gener",
+    "info":null
+  },
+  {
+    "id":20,
+    "title":"Jerusalem",
+    "type":"temporada",
+    "author":null,
+    "location":"CDN Teatro Valle Inclán.",
+    "city":"Madrid",
+    "time":"de dimarts a diumenge.",
+    "date":"Del 22 de gener a lʼ1 de març 2020",
+    "info":"https://cdn.mcu.es/espectaculo/jerusalem/"
+  },
+  {
+    "id":21,
+    "title":"Jerusalem",
+    "type":null,
+    "author":null,
+    "location":null,
+    "city":"Tarragona",
+    "time":null,
+    "date":"13 de març",
+    "info":"https://cdn.mcu.es/espectaculo/jerusalem/"
+  },
+  {
+    "id":22,
+    "title":"Jerusalem",
+    "type":null,
+    "author":null,
+    "location":null,
+    "city":"Sabadell",
+    "time":null,
+    "date":"14 de març",
+    "info":"https://cdn.mcu.es/espectaculo/jerusalem/"
+  },
+  {
+    "id":23,
+    "title":"Jerusalem",
+    "type":null,
+    "author":null,
+    "location":null,
+    "city":"Balaguer",
+    "time":null,
+    "date":"15 de març",
+    "info":"https://cdn.mcu.es/espectaculo/jerusalem/"
+  },
+  {
+    "id":24,
+    "title":"Cançons per infants i bestioles",
+    "type":null,
+    "author":null,
+    "location":"La Sedeta, Barcelona",
+    "city":null,
+    "time":null,
+    "date":"25 de març",
+    "info":null
+  },
+  {
+    "id":25,
+    "title":"Cançons per infants i bestioles",
+    "type":null,
+    "author":null,
+    "location":"La Barceloneta, Barcelona",
+    "city":null,
+    "time":null,
+    "date":"27 de març",
+    "info":null
+  },
+  {
+    "id":26,
+    "title":"Cançons per infants i bestioles",
+    "type":null,
+    "author":null,
+    "location":"La Barceloneta, Barcelona",
+    "city":null,
+    "time":null,
+    "date":"27 de març",
+    "info":null
+  },
+  {
+    "id":27,
+    "title":"Jerusalem",
+    "type":null,
+    "author":null,
+    "location":"Valladolid",
+    "city":null,
+    "time":null,
+    "date":"4 d&#39;abril",
+    "info":"https://cdn.mcu.es/espectaculo/jerusalem/"
+  },
+  {
+    "id":28,
+    "title":"Jerusalem",
+    "type":null,
+    "author":null,
+    "location":"Bilbao",
+    "city":null,
+    "time":null,
+    "date":"17 i 18 d&#39;abril",
+    "info":"https://cdn.mcu.es/espectaculo/jerusalem/"
+  },
+  {
+    "id":29,
+    "title":"P de Carn",
+    "type":null,
+    "author":null,
+    "location":"Dau al Sec, Barcelona",
+    "city":null,
+    "time":null,
+    "date":"7,8 i 13 de maig",
+    "info":null
+  },
+  {
+    "id":30,
+    "title":"Apologia i escarni de l’estupidesa humana",
+    "type":null,
+    "author":null,
+    "location":"Foyer del Liceu, OFF Liceu",
+    "city":null,
+    "time":null,
+    "date":"29 de maig",
+    "info":null
+  }
+]
 }
