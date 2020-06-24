@@ -25,18 +25,6 @@
          "img":"../data/Cronologia/tocarDoAnimal.jpg"
       },
       {
-         "id":40,
-         "title":"Cançons per infants i bestioles ",
-         "subtitle":"de Linda Hambäck i Marika Heidebäck.",
-         "author":null,
-         "location":"Pack Màgic",
-         "year":"2019",
-         "type":[
-            "personatges"
-         ],
-         "img":null
-      },
-      {
          "id":39,
          "title":"P de carn ",
          "subtitle":"de Martí Sancliment, Bru Ferri i Elena Tarrats.",
