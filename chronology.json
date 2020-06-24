@@ -10,7 +10,7 @@
          "type":[
             "musica"
          ],
-         "img":null
+         "img":"../data/Cronologia/tocarDoAnimal.jpg"
       },
       {
          "id":41,
@@ -22,7 +22,7 @@
          "type":[
             "personatges"
          ],
-         "img":"../data/Cronologia/tocarDoAnimal.jpg"
+         "img":"../data/Cronologia/infantsBestioles.jpg"
       },
       {
          "id":39,
