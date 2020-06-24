@@ -292,6 +292,34 @@
          "type":[
             "moviment"
          ]
+      },
+      {
+         "id":10,
+         "title":{
+            "title":"TOCAR A PEL DO ANIMAL",
+            "subtitle":"Disc experimental-minimalista amb l’oboista gallec Benxamín Otero a partir de cinc fotografies d’ell.. 2012",
+            "author":null,
+            "location":null,
+            "year":"2012"
+         },
+         "name":"TOCAR A PEL DO ANIMAL",
+         "description":"La proposta per a aquest projecte va ser escollir cinc fotografies seves (amb els seus títols), tancar-nos a un estudi i crear en el moment present el paisatge sonor, la música per cada una de les imatges. El procés d’aquest EP és una creació en acció, en tant que cada decisió, cada nota, s’ha pres des de la consciència, en el moment present. Cada cop em fascina més la vivència que la veu o el teu instrument sap perfectament el que vol comunicar, només t’has de rendir. Després de les sessions d’estudi, després de la mescla capitanejada per Alberto Quintá, el criteri del qual ens fiem per decidir que aquest treball vegi la llum i compartir-lo amb vosaltres és preguntar-nos: m’interessa la presència que hi ha aquí?",
+         "credits":{
+            "websites":null,
+            "video":"https://vimeo.com/46565466",
+            "awards":null,
+            "audio":"https://open.spotify.com/album/1zDIFlUpU0ztS6pyXRGP9m?si=--KjyZw3Rp6sruZeynBemg",
+            "imageBy":"Benxamín Otero"
+         },
+         "images":[
+            {
+               "url":"../data/creacions/tocarDoAnimal.jpg",
+               "isMain":true
+            }
+         ],
+         "type":[
+            "moviment"
+         ]
       }
    ]
 }
