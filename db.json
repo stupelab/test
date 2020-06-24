@@ -21,7 +21,12 @@
          "location":"Auditori",
          "city":"St. Cugat del Vallès",
          "date":"24 i 25 Octubre",
-         "info":null
+         "info":null,
+         "filterdate":{
+            "day":"24",
+            "month":"10",
+            "year":"2019"
+         }
       },
       {
          "id":7,
@@ -30,7 +35,12 @@
          "location":"Kursaal",
          "city":"Manresa",
          "date":"26 i 27 Octubre",
-         "info":null
+         "info":null,
+         "filterdate":{
+            "day":"26",
+            "month":"10",
+            "year":"2019"
+         }
       },
       {
          "id":8,
